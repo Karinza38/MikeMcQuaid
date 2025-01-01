@@ -1,4 +1,4 @@
-Some things you should know about life:
+ Some things you should know about life:
 
 - [all open source maintainers (including me!) owe you nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
 - emailing open source maintainers (including me!) directly instead of opening issues on their project is a rude thing to do
